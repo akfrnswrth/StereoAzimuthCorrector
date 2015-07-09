@@ -1,0 +1,8 @@
+(module SAC_P_3.5MM (layer F.Cu) (tedit 559DEFD8)
+  (fp_text reference SAC_P_3.5MM (at 0 0) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0 0) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  )
+)
