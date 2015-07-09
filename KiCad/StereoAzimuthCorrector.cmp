@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 7/8/2015 10:05:09 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 7/9/2015 12:32:16 PM
 
 BeginCmp
 TimeStamp = /559C17AB;
@@ -116,35 +116,35 @@ BeginCmp
 TimeStamp = /559DCAD7;
 Reference = D1;
 ValeurCmp = PWR_ON;
-IdModule  = LEDs:LED-5MM;
+IdModule  = SAC_footprints:SAC_LED-5MM;
 EndCmp
 
 BeginCmp
 TimeStamp = /559EBCC0;
 Reference = D2;
 ValeurCmp = 1N4148;
-IdModule  = Discret:DO-35;
+IdModule  = SAC_footprints:SAC_DO-35;
 EndCmp
 
 BeginCmp
 TimeStamp = /559EF228;
 Reference = P1;
 ValeurCmp = 12VDC_IN;
-IdModule  = Oddities:Dummy_Empty;
+IdModule  = Connect:BARREL_JACK;
 EndCmp
 
 BeginCmp
-TimeStamp = /559F6FEC;
+TimeStamp = /559E0EEA;
 Reference = P2;
-ValeurCmp = LR_IN;
-IdModule  = ;
+ValeurCmp = SAC_P_3.5MM;
+IdModule  = SAC_footprints:SAC_P_3.5MM;
 EndCmp
 
 BeginCmp
-TimeStamp = /559F5A93;
+TimeStamp = /559E1BAC;
 Reference = P3;
-ValeurCmp = LR_OUT;
-IdModule  = ;
+ValeurCmp = SAC_P_3.5MM;
+IdModule  = SAC_footprints:SAC_P_3.5MM;
 EndCmp
 
 BeginCmp
@@ -375,7 +375,7 @@ BeginCmp
 TimeStamp = /559C302C;
 Reference = RV1;
 ValeurCmp = B50K_2;
-IdModule  = ;
+IdModule  = SAC_footprints:SAC_RV1;
 EndCmp
 
 BeginCmp
